@@ -46,7 +46,7 @@ end
 Increment IP address, .e.g for private_network interfaces. 
 
 For some reason this comes up a lot as a question and gets a lot of hacks as answers. 
-Ruby has [ipaddr](http://ruby-doc.org//stdlib-1.9.3/libdoc/ipaddr/rdoc/IPAddr.htm) as a standard libary and it deals with anything you are likely to throw at it.
+Ruby has [ipaddr](http://ruby-doc.org//stdlib-1.9.3/libdoc/ipaddr/rdoc/IPAddr.html) as a standard libary and it deals with anything you are likely to throw at it.
 
 ```
 require 'ipaddr'
